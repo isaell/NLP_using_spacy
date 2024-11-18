@@ -1,3 +1,5 @@
+## Extracting data using NLP
+
 This is a peek into a natural language processing project with the aim to extract data from company reports and has been in collaboration with Lucas Das Dores, 
 Jasper Hajonides, Angel Luis Jaso Tamame and Juliet Thompson.
 
